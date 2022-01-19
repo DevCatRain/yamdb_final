@@ -9,17 +9,17 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/DevCatRain/api_yamdb.git
+git clone https://github.com/DevCatRain/yamdb_final.git
 ```
 
 ```
-cd api_yamdb
+cd yamdb_final
 ```
 
 Cоздать и активировать виртуальное окружение:
 
 ```
-python -m venv venv
+python3 -m venv venv
 ```
 
 ```
@@ -130,4 +130,4 @@ DB_PORT=  # порт для подключение к БД
 ### Об авторе
     CatRain - [DevCatRain](https://github.com/DevCatRain)
 
-![example workflow](https://https://github.com/DevCatRain/yamdb_final/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://https://github.com/DevCatRain/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
