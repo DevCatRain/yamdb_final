@@ -9,7 +9,7 @@ services:
       - .env
 
   web:
-    image: ${{  secrets.DOCKER_USERNAME  }}/yamdb_final:latest
+    image: catrain/yamdb_final:latest
     build: ../api_yamdb/
     restart: always
     volumes:
