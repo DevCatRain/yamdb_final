@@ -10,7 +10,9 @@ services:
 
   web:
     image: catrain/yamdb_final:latest
-    build: ../api_yamdb/
+    build:
+      context: ../api_yamdb
+      #dockerfile: Dockerfile-alternate
     restart: always
     volumes:
       - static_value:/app/static/
