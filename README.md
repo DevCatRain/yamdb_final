@@ -130,4 +130,4 @@ DB_PORT=  # порт для подключение к БД
 ### Об авторе
     CatRain - [DevCatRain](https://github.com/DevCatRain)
 
-![example workflow](https://https://github.com/DevCatRain/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+[example workflow](https://https://github.com/DevCatRain/yamdb_final/workflows/yamdb_workflow.yml/badge.svg)
