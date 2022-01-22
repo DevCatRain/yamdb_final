@@ -1,3 +1,5 @@
+![example workflow](https://github.com/DevCatRain/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # yamdb_final
 
 ### Описание проетка:
@@ -127,7 +129,6 @@ DB_PORT=  # порт для подключение к БД
     ```
     docker-compose run web python manage.py loaddata fixtures.json
     ```
+
 ### Об авторе
 CatRain - [DevCatRain](https://github.com/DevCatRain)
-
-[example workflow](https://github.com/DevCatRain/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
