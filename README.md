@@ -1,5 +1,7 @@
 ![example workflow](https://github.com/DevCatRain/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+[example](http:catrain.tk/redoc)
+
 # yamdb_final
 
 ### Описание проетка:
